@@ -18,3 +18,14 @@ Salida de Python
 
 
 Salida de Java
+![alt text](<assets/image copy.png>)
+
+
+
+Arreglo de personas ordenado por nombre
+![alt text](<assets/image copy 2.png>)
+
+
+
+
+Arreglo de personas ordenado por edad
